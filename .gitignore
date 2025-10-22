@@ -1,0 +1,30 @@
+# PHP
+*.log
+*.cache
+.env
+vendor/
+
+# Session files
+sessions/
+
+# Uploads
+uploads/
+!uploads/.gitkeep
+
+# Database backups
+backups/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
